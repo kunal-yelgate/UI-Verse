@@ -1,0 +1,8 @@
+{
+  "style.css": "sha384-7260rU/VDlcHM+GozL0q8fs1SvFL0XQf79Iuq+Yw8sTO8pkxAaT4tgluLO9EgnvE",
+  "script.js": "sha384-TEurVVL4gPK9vYkGjVh/xgc07tX8OVrL65eNtKNvxVmsG/TSpCDTMi+znzpXk+Ew",
+  "design-tokens.css": "sha384-9eLtDx05TmB5PDjg1PuSvu318u0pr35ET93WErvcPy3nzLPbh8/gkO4NVlOZHJ1k",
+  "dist/index.js": "sha384-2labMy70NXMO1YFXohbls4BLe23FZLjCOXQZYJQfzm2kab7Y1jP6Y1b9SH/2/jfq",
+  "dist/index.esm.js": "sha384-krPFvtC1wLTFVvcNJrNIny2gmNOlqFArv5ReecL8KtGkNVbtl4k+AHb8KH3AjBEN",
+  "dist/index.cjs.js": "sha384-+aSTbH3QmLmkJzWMXsD21jkYolp8iubP0L++730eN6u5oStyK3oGl0vwVgrzS2bk"
+}
